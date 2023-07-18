@@ -9,7 +9,7 @@ const Analytics = () => {
         <div className='flex flex-col justify-center'>
           <p className='text-[#00df9a]'>DATA ANALYTICS DASHBOARD</p>
           <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2'>Manage Data Analytics Centrally</h1>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias maiores facere earum, amet dolor nisi exercitationem eveniet? Aspernatur, eos, necessitatibus velit porro aliquam ipsam aperiam corrupti repudiandae ratione voluptate cumque?</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias maiores facere earum, amet dolor nisi exercitationem eveniet. Aspernatur, eos, necessitatibus velit porro aliquam ipsam aperiam corrupti repudiandae ratione voluptate cumque?</p>
           <button className='bg-black w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3 text-[#00df9a]'>Get Started</button>
         </div>
         
